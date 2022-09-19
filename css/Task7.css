@@ -1,0 +1,171 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+    /* direction: rtl; */
+}
+.navbar-expand .navbar-nav .nav-link {
+    padding-right: 100px;
+}
+
+.row .btn button {
+    border-radius: 20px;
+
+}
+
+.d-block{
+    width: 70%;
+    height: 50%;
+    margin-left: 15%;
+}
+
+.text-right {
+    text-align: right !important;
+    margin-right: 8%;
+    color: blue;
+}
+
+.prog1 {
+    color: #FFF;
+    background-color: #04CEA9;
+    border-radius: 25px;
+}
+.prog0 {
+    color: #FFF;
+    background-color: blue;
+    border-radius: 25px;
+}
+
+.ml-5,.mx-5 {
+        width: 75%;
+        margin-left: 10rem !important;
+        padding: -1px;
+
+}
+
+.stats {
+    padding: 100px 0;
+    display: block;
+    font-size: 28px;
+    font-weight: bold;
+    color: blue;
+}
+small {
+    color: black;
+    font-size: 28px;
+}
+
+.row{
+    border-radius: 30px;
+    width: 98%;
+}
+
+.card{
+    border: none;
+}
+
+
+
+img {
+    width: 100%;
+    height: auto;
+    
+}
+
+.btn-outline-info{
+   background-color: #04CEA9;
+   border-radius: 20px;
+   color: #FFF;
+
+}
+
+.card-body1 {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    background-color: blue;
+    color: #FFF;
+    border-radius: 20px;
+}
+
+.prog{
+    padding: 15px;
+    margin: 5px;
+   transition: 0.7s ease;
+   border: none;
+   
+}
+
+.prog:hover {
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .navbar-expand .navbar-nav .nav-link {
+    padding-right: 90px;
+    padding-left: 9px;
+}
+.row .btn button{
+    border-radius: 20px;
+    
+}
+.slider .carousel-inner {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.slider .carousel-inner h1 {
+    position: absolute;
+    color: #FFF;
+    z-index: 3;
+    font-size: 50px;
+    max-width: 900px;
+    right: 100px;
+    margin-top: -20%;
+    text-align: right;
+}
+.carousel-item{
+    transform: scale(0.9);
+}
+
+h2{
+    text-align: right;
+    color: blue;
+    margin: 50px;
+}
+
+.prog{
+    color: #FFF;
+    background-color: blue;
+    border-radius: 25px;
+}
+.prog1{
+    color: #FFF;
+    background-color: #04CEA9;
+    border-radius: 25px;
+}
+
+h3{
+    color: blue;
+    font-size: 50px;
+}
+.card{
+    border-radius: 30px;
+}
+
+h6{
+    font-size: 20px;
+}
+
+ */

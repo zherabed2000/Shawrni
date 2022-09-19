@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+}
+.navbar-expand .navbar-nav .nav-link {
+    padding-right: 90px;
+}
+
+.row .btn button {
+    border-radius: 20px;
+
+}
+.card-body{
+    border-radius: 30px;
+}
+
+.ml-5,
+.mx-5 {
+    margin-left: 19rem !important;
+    width: 52%;
+    background-color: #D3E4E1;
+}
+.pb-5,
+.py-5 {
+    padding-bottom: 0rem !important;
+}
+
+.card {
+    border: none;
+    border-radius: 20px;
+    background-color: #fff;
+    
+}
+.card-text{
+        border-radius: 20px;
+}
+
+p{
+    margin-top: -32px;
+        margin-bottom: 1rem;
+        padding-left: 147px;
+        padding-right: 12px;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    text-align: end;
+    
+}
+span.dev{
+    padding-right: 40px;
+    color: blue;
+}
+
+span.dev1 {
+    padding-right: 32px;
+    color: blue;
+}
+.gallery img {
+    padding: 5px;
+    width: 100%;
+    cursor: pointer;
+}
+.gallery {
+    padding: 1px 0;
+    margin-left: 306px;
+    margin-right: 25%;
+}
+
+footer {
+    padding: 70px 0 60px;
+    margin-top: 40px;
+}
+article,
+aside,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+    display: block;
+}
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+footer {
+    display: block;
+}
+
+
+
+
+
+
